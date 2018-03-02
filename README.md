@@ -1,4 +1,7 @@
 # Hashcode2018
+
+**Participants:**Axel, Mattias, Beichen
+
 11th at KTH
 
 48th in Sweden
