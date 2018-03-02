@@ -1,6 +1,6 @@
 # Hashcode2018
 
-**Participants:**Axel, Mattias, Beichen
+**Participants:** Axel, Mattias, Beichen
 
 11th at KTH
 
